@@ -238,11 +238,5 @@ Sensor Data → Mockaroo API → ServiceNow Flow → Process & Store
 
 
 ---
-## 👤 Author
-
-**Ahmed Ehab Khamis**
-ServiceNow / Backend Developer
-
----
 
 > *A smart, automated, and scalable facility management solution built on ServiceNow.*
